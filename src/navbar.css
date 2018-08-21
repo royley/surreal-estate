@@ -7,3 +7,19 @@
   margin: 0;
   padding: 0;
 }
+
+.fas fa-home {
+  margin-right: 10;
+  padding-right: 10;
+}
+
+.nav item {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.item:hover {
+  background-color: coral
+}

@@ -5,7 +5,7 @@
 
 .nav {
   margin: 0;
-  padding: 0;
+  padding-right: 200px;
 }
 
 .fas fa-home {
@@ -22,4 +22,9 @@
 
 .item:hover {
   background-color: coral
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
 }
